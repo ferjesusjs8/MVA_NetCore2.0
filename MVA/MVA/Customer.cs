@@ -8,7 +8,5 @@ namespace MVA
 
         [Required, StringLength(49)]
         public string Name { get; set; }
-
-
     }
 }
